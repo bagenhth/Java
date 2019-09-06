@@ -5,7 +5,7 @@
     "license": "https://java.com/otnlicense",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/otn/java/jdk/8u221-b11/230deb18db3e4014bb8e3e8324f81b43/jdk-8u221-windows-x64_bin.zip",
+            "url": "https://download.oracle.com/otn/java/jdk/8u221-b11/230deb18db3e4014bb8e3e8324f81b43/jdk-8u221-windows-x64.exe",
             "hash": "61ccc93957a931d63535e6785fe814e3ab9efdc7c5b6757e7cc0e5b27a89704c"
         }
     },
